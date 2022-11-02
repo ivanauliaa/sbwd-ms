@@ -1,0 +1,1 @@
+UPDATE orders SET total_price = 0 WHERE total_price = 9999;

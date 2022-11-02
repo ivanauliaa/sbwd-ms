@@ -1,0 +1,10 @@
+INSERT INTO customers (name, phone) VALUES("vincent", "08123456789");
+INSERT INTO customers (name, phone) VALUES("ryan", "08123456789");
+INSERT INTO customers (name, phone) VALUES("rompies", "08123456789");
+INSERT INTO customers (name, phone) VALUES("deddy", "08123456789");
+INSERT INTO customers (name, phone) VALUES("mahendra", "08123456789");
+INSERT INTO customers (name, phone) VALUES("desta", "08123456789");
+INSERT INTO customers (name, phone) VALUES("andre", "08123456789");
+INSERT INTO customers (name, phone) VALUES("taulany", "08123456789");
+INSERT INTO customers (name, phone) VALUES("mauhahu", "08123456789");
+INSERT INTO customers (name, phone) VALUES("stinky", "08123456789");

@@ -1,0 +1,1 @@
+UPDATE order_items SET quantity = 0 WHERE quantity = 9999;

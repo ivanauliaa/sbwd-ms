@@ -1,0 +1,10 @@
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(1, 1, 1);
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(2, 2, 2);
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(1, 3, 1);
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(2, 4, 1);
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(1, 5, 3);
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(2, 6, 1);
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(1, 7, 2);
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(2, 7, 1);
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(9999, 8, 4);
+INSERT INTO order_items (quantity, order_id, product_id) VALUES(1, 1, 1);

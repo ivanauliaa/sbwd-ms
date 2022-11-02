@@ -1,0 +1,10 @@
+INSERT INTO orders (total_price, customer_id) VALUES(10000, 1);
+INSERT INTO orders (total_price, customer_id) VALUES(6000, 1);
+INSERT INTO orders (total_price, customer_id) VALUES(5000, 1);
+INSERT INTO orders (total_price, customer_id) VALUES(10000, 4);
+INSERT INTO orders (total_price, customer_id) VALUES(11000, 5);
+INSERT INTO orders (total_price, customer_id) VALUES(10000, 6);
+INSERT INTO orders (total_price, customer_id) VALUES(16000, 7);
+INSERT INTO orders (total_price, customer_id) VALUES(9999, 8);
+INSERT INTO orders (total_price, customer_id) VALUES(0, 8);
+INSERT INTO orders (total_price, customer_id) VALUES(0, 3);

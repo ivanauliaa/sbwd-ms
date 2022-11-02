@@ -1,0 +1,1 @@
+UPDATE products SET price = 4000 WHERE name = "TV";

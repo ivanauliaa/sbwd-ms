@@ -1,0 +1,1 @@
+UPDATE categories SET short_name = "FRM" WHERE short_name = "FAR";

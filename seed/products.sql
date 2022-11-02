@@ -1,0 +1,10 @@
+INSERT INTO products (name, price, category_id) VALUES("Guitar", 5000, 1);
+INSERT INTO products (name, price, category_id) VALUES("Cajon", 3000, 1);
+INSERT INTO products (name, price, category_id) VALUES("Bass", 5500, 1);
+INSERT INTO products (name, price, category_id) VALUES("Shuttlecock", 500, 4);
+INSERT INTO products (name, price, category_id) VALUES("Smartphone", 2500, 5);
+INSERT INTO products (name, price, category_id) VALUES("Bracket", 1000, 6);
+INSERT INTO products (name, price, category_id) VALUES("Muffler", 250, 7);
+INSERT INTO products (name, price, category_id) VALUES("Kulot", 350, 8);
+INSERT INTO products (name, price, category_id) VALUES("Cardigan", 300, 8);
+INSERT INTO products (name, price, category_id) VALUES("TV", 2000, 3);
